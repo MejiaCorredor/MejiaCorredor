@@ -6,4 +6,5 @@
 
 ### Systems Engineering student, with experience in cybersecurity projects, cloud architecture and development with java, pyhton, html, figma. Integral and hard worker with high capacity for learning and leadership, facility with teamwork and companionship.
 
+### My soft skills are highlighted, such as teamwork, leadership and working under pressure.
 
