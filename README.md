@@ -1,6 +1,9 @@
-# HOLA!! Mi nombre es Jose Manuel Mejía Corredor
+# Hi!! My name is Jose Manuel Mejía Corredor, Welcome.
 ##  
-## 🎓 Estudiante de Ingeniería de Sistemas  
+## 🎓 Systems and computer engineerer
 ## 🌎 Medellín, Colombia  
-## 🚀 Me encanta aprender y crear soluciones digitales.
+## 🚀 I love to learn and solve problems.
+
+### Systems Engineering student, with experience in cybersecurity projects, cloud architecture and development with java, pyhton, html, figma. Integral and hard worker with high capacity for learning and leadership, facility with teamwork and companionship.
+
 
